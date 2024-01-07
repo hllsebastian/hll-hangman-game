@@ -14,4 +14,6 @@ abstract class TextConst {
       'You win if the word is complete.\nYou lose if the Hangman is fully draw it.';
   static const pressToStar = 'Press to star';
   static const hangmanOrNot = 'Hangman or not hangman';
+  static const startNewGame = 'Start New Game';
+  static const attemptsLeft = 'Attempts Left';
 }
